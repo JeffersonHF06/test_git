@@ -1,3 +1,5 @@
 This is a new work for the next awesome feature
 
 New feature completed
+
+Solving bug.
